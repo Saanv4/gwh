@@ -1,5 +1,11 @@
 # gwh
 
-MediQue Prototype 
+MediQue Prototype
+
+Software used: Figma, React Native
+
+
+
+
 
 
